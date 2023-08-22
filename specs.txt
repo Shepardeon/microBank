@@ -1,0 +1,17 @@
+µBank Management Requirements
+-----------------------------
+
+Bank account:
+    [X] Has balance
+    [X] Has owner (name)
+    [X] Has unique ID
+    [X] Can withdraw if sufficient balance
+    [X] Can deposit
+
+Bank management:
+    [X] Can register a new account
+    [ ] Can delete an account
+    [ ] Can list existing accounts
+    [X] Can list informations about an account
+    [ ] Can save bank data to file
+    [ ] Can load data from file
