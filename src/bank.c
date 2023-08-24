@@ -21,6 +21,7 @@ void bank_register_account(bank_t* b, account_t* a)
     b->numAccounts++;
 }
 
-void bank_delete_account(bank_t* b, account_t* a) {
+void bank_delete_account(bank_t* b, account_t* a)
+{
     return;
 }
